@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sayo1305 (Unnat Das)
 - 👀 I’m interested in Competitive programing and front-end development.
 - 🌱 I’m currently learning OpenCv and pygame from python.
-- 💞️ I’m looking to collaborate on Software Development.
+- 💞️ I’m looking to collaborate on Software Development or web development.
 - 📫 How to reach me ... udas4153@gmail.com
 
 <!---
