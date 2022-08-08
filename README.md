@@ -31,6 +31,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/84987518/183380062-f03bbc1a-6593-42aa-98af-e25431c379b8.jpg" title="MaterialUI" **alt="MatreialUI" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
