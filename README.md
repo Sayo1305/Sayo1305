@@ -33,6 +33,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/84987518/183380062-f03bbc1a-6593-42aa-98af-e25431c379b8.jpg" title="MaterialUI" **alt="MatreialUI" width="40" height="40"/>
   <img src = "https://raw.githubusercontent.com/Sayo1305/unnatdas.github.io/main/resource/tailwindcss.png" alt = "TailwindCSS"width="40" height="40" />
+  <img src = "https://user-images.githubusercontent.com/84987518/190498002-8ffca85c-80dd-48f1-9b80-e2f2eb103c3e.svg" alt = "redux"width="40" height="40" />
 </div>
 
 ### :fire: My Stats :
