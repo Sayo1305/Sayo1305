@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Competitive programmer.
-- :telescope: I’m currently learning Redux , Nodejs and RestAPI.
+- :telescope: I’m currently learning NodeJs ,ExpressJs.
 
 - 💞️ I’m looking to collaborate on Software Development or web development.
 
