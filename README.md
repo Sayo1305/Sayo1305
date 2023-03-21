@@ -40,7 +40,7 @@ I am a MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sayo1305&theme=light&background=#fff)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayo1305&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sayo1305&show_icons=true&title_color=fcfcfc&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt = "Unnat"/>
 
 
 <a href="https://www.flaticon.com/free-icons/coding" title="coding icons">Coding icons created by Freepik - Flaticon</a>
