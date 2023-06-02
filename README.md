@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 I am a MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Competitive programmer.
-- :telescope: I’m currently learning NodeJs ,ExpressJs.
+- :telescope: I’m currently learning DSA , Web3.
 
 - 💞️ I’m looking to collaborate on Software Development or web development.
 
