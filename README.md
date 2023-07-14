@@ -9,26 +9,29 @@ I am a MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://user-images.githubusercontent.com/84987518/180303873-38d2b455-cee7-4204-8200-3b96225f59de.png" title="c++" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/84987518/180304196-e369d65f-74d0-4ebb-83d9-1667b539d060.svg" title="Python" alt="Java" width="40"height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/84987518/183380062-f03bbc1a-6593-42aa-98af-e25431c379b8.jpg" title="MaterialUI" **alt="MatreialUI" width="40" height="40"/>
-  <img src = "https://raw.githubusercontent.com/Sayo1305/unnatdas.github.io/main/resource/tailwindcss.png" alt = "TailwindCSS"width="40" height="40" />
-  <img src = "https://user-images.githubusercontent.com/84987518/190498002-8ffca85c-80dd-48f1-9b80-e2f2eb103c3e.svg" alt = "redux"width="40" height="40" />
-</div>
+![Static Badge](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=JAVA&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/python-light?style=for-the-badge&logo=python&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Javascipt-black?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=%23000)
+![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/CSS-pink?style=for-the-badge&logo=CSS)
+![Static Badge](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT)
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-light?style=for-the-badge&logo=Tailwind%20CSS&color=%2307454d)
+![Static Badge](https://img.shields.io/badge/firebase-light?style=for-the-badge&logo=firebase&color=%234d072f)
+![Static Badge](https://img.shields.io/badge/NODE.JS-light?style=for-the-badge&logo=Node.js&color=%2396f48a)
+![Static Badge](https://img.shields.io/badge/ExpressJS-light?style=for-the-badge&logo=Express&color=%2307454d)
+![Static Badge](https://img.shields.io/badge/MongoDB-light?style=for-the-badge&logo=mongodb&color=%23000)
+![Static Badge](https://img.shields.io/badge/postman-light?style=for-the-badge&logo=postman&color=%23Fffc61)
+![Static Badge](https://img.shields.io/badge/Git-light?style=for-the-badge&logo=git&color=%23Fffc61)
+![Static Badge](https://img.shields.io/badge/next-light?style=for-the-badge&logo=NEXT.JS&color=%23000)
+
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sayo1305&theme=dark&background=#fff)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sayo1305&theme=light&background=#000)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayo1305&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayo1305&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sayo1305&show_icons=true&title_color=fcfcfc&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt = "Unnat"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sayo1305&show_icons=true&title_color=00000&text_color=00000&bg_color=ffff&hide_border=false&locale=en" alt = "Unnat"/>
 <!---
 Sayo1305/Sayo1305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
