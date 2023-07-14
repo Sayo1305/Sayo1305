@@ -1,11 +1,10 @@
-
+![check2](https://github.com/Sayo1305/Sayo1305/assets/84987518/240a2457-dbe6-4983-8e84-2b3f209af942)
 ### :woman_technologist: About Me :
 I am a MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Competitive programmer.
 - :telescope: I’m currently learning DSA , Web3.
-
 - 💞️ I’m looking to collaborate on Software Development or web development.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-unnat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/unnat-das-3b5374196/)
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
