@@ -26,8 +26,7 @@ I am a MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sayo1305&theme=light&background=#000)](https://git.io/streak-stats)
-<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sayo1305&theme=dracula&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayo1305&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sayo1305&show_icons=true&title_color=00000&text_color=00000&bg_color=ffff&hide_border=false&locale=en" alt = "Unnat"/>
