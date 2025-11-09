@@ -61,8 +61,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sayo1305&theme=algolia&no-frame=true&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
+---
+
+### 🐍 Contribution Snake (Animated SVG)
+<!-- This will show once the GitHub Action below generates the SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sayo1305/Sayo1305/output/snake.svg" alt="snake gif" />
+</p>
 
 ---
+
+
 
 ### 📊 Stats & Streak 🔥
 <p align="center">
