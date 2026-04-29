@@ -1,77 +1,89 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Unnat+Das+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%8F%86;I+love+building+fast+%26+clean+web+apps+%E2%9A%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Unnat+Das+%F0%9F%91%8B;SDE-1+%40+PEP+%F0%9F%9A%80;Ex-Founding+Engineer+%40+Entvin+(YC+S22)+%E2%9A%A1;Full-Stack+%2B+Android+%2B+AI+Agents+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Unnat Das</h1>
-<h3 align="center">🚀 Full Stack Developer | 💻 3x Startup | 📚 Lifelong Learner</h3>
+<h3 align="center">🚀 SDE-1 @ PEP | 💻 Ex-Founding Engineer @ Entvin (YC S22) | 📱 Android + Full-Stack</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/unnat-das-3b5374196/"><img src="https://img.shields.io/badge/-Unnat%20Das-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/unnat-das/"><img src="https://img.shields.io/badge/-Unnat%20Das-8f5dc2?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://github.com/Sayo1305"><img src="https://img.shields.io/github/followers/Sayo1305?label=Follow&style=social"/></a>
-  <a href="mailto:udas4153@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?logo=gmail&style=flat"/></a>
+  <a href="mailto:udas4153@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?logo=gmail&style=flat&logoColor=white"/></a>
+  <a href="https://unnatdas.com"><img src="https://img.shields.io/badge/Portfolio-Visit-8f5dc2?style=flat&logo=firefox-browser&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building reliable and scalable web apps  
-- 🌱 Learning **DSA**.
-- 💬 Ask me about **React, JavaScript, Firebase, AWS**  
-- 🤝 Open to collaborate on **development** or **software engineering projects**
+- 🔭 Currently building **Clip AI** at PEP — an AI-powered social media platform
+- 📱 Shipping Android features in **Kotlin & Jetpack Compose** + managing AWS infra
+- ⚡ Previously **Founding Engineer at Entvin (YC S22)** — shipped 4+ frontend apps and 3+ backend services solo
+- 🤖 Hands-on integrating **AI agents and RAG pipelines** into production
+- 💬 Ask me about **React, Next.js, Go, FastAPI, Android, AWS**
+- 🤝 Open to collaborate on **full-stack, mobile, or AI-integrated products**
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
-![C++](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### 📱 Mobile
+![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/jetpack_compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### 🧰 Frameworks & Libraries
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)
-![Next.js](https://img.shields.io/badge/next.js-white?style=for-the-badge&logo=next.js)
-![Redux](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### ☁️ Cloud & 🗄️ Databases
-![GCP](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/amazon_aws-ff9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-001e2b?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase)
-
-#### 🔧 DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### 🤖 AI & Tools
+![AI Agents](https://img.shields.io/badge/AI_Agents-8f5dc2?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8f5dc2?style=for-the-badge&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sayo1305&theme=algolia&no-frame=true&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sayo1305&theme=radical&no-frame=true&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake (Animated SVG)
-<!-- This will show once the GitHub Action below generates the SVG -->
+### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sayo1305/Sayo1305/output/snake.svg" alt="snake gif" />
 </p>
 
 ---
-
-
 
 ### 📊 Stats & Streak 🔥
 <p align="center">
@@ -84,20 +96,11 @@
 
 ---
 
-
-### 🏁 Competitive Programming
-- LeetCode: ⭐ 1584  
-- Codeforces: Max Rating: 1118  
-- CodeChef: ⭐⭐⭐ (3-Star)-MAX
-
----
-
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/unnat-das-3b5374196/"><img src="https://img.shields.io/badge/LinkedIn-Unnat%20Das-blue?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:udas4153@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?logo=gmail&logoColor=white"/></a>
-  <a href="https://unnatdas.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-orange?logo=firefox-browser&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/unnat-das/"><img src="https://img.shields.io/badge/LinkedIn-Unnat%20Das-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:udas4153@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://unnatdas.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8f5dc2?logo=firefox-browser&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-<!-- Footer sparkle -->
-<p align="center">✨ Thanks for visiting! Star some repos if you like what you see 😄</p>
+<p align="center">✨ Thanks for visiting! Star a repo if you like what you see 😄</p>
