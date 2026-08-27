@@ -18,11 +18,20 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently building **Clip AI** at PEP — an AI-powered social media platform
-- 📱 Shipping Android features in **Kotlin & Jetpack Compose** + managing AWS infra
-- ⚡ Previously **Founding Engineer at Entvin (YC S22)** — shipped 4+ frontend apps and 3+ backend services solo
+- 📱 Shipping Android features in **Kotlin & Jetpack Compose** + managing AWS infra (ECR, ALB, CloudFront)
+- ⚡ Previously **Founding Engineer at Entvin (YC S22)** — shipped 4+ frontend apps and 3+ backend services solo, integrating LLMs and RAG into production
+- 🛠️ Started out as a **Full Stack Developer Intern at GlazeGPT**, building an AI-assisted SQL query builder and cutting load times by 50%
 - 🤖 Hands-on integrating **AI agents and RAG pipelines** into production
+- 🎓 B.Tech in Computer Science from Guru Tegh Bahadur Institute of Technology (GPA: 9.1)
 - 💬 Ask me about **React, Next.js, Go, FastAPI, Android, AWS**
 - 🤝 Open to collaborate on **full-stack, mobile, or AI-integrated products**
+
+---
+
+### 🚀 Featured Projects
+
+- **[Support Ticket Resolver](https://github.com/Sayo1305)** — AI-powered support ticket resolution system built on a two-stage RAG pipeline (vector retrieval + cross-encoder reranking) with an LLM agent generating structured, context-grounded responses. Optimized embedding/reranking runtime to cut memory usage and prevent OOM crashes in deployment.
+- **ParkIt** — Decentralized parking management system using blockchain to list, book, and track parking slots. *(Jan 2024)*
 
 ---
 
